@@ -5,7 +5,7 @@ An end-to-end Machine Learning project to detect fraudulent credit card transact
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Credit card fraud is a major challenge in the financial industry. Fraudulent transactions are extremely rare compared to legitimate ones, which makes normal accuracy misleading.
 
@@ -32,7 +32,7 @@ This project builds a fraud detection pipeline that:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
