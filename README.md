@@ -20,15 +20,15 @@ This project builds a fraud detection pipeline that:
 
 ---
 
-## 🚀 Features
+## Features
 
-✅ Data preprocessing and feature scaling
-✅ Handle class imbalance using SMOTE / ADASYN / Class Weights
-✅ Train multiple ML models
-✅ Threshold optimization for business cost reduction
-✅ SHAP explainability
-✅ FastAPI real-time prediction API
-✅ Streamlit interactive dashboard
+* Data preprocessing and feature scaling
+* Handle class imbalance using SMOTE / ADASYN / Class Weights
+* Train multiple ML models
+* Threshold optimization for business cost reduction
+* SHAP explainability
+* FastAPI real-time prediction API
+* Streamlit interactive dashboard
 
 ---
 
