@@ -227,19 +227,10 @@ Output:
 
 ---
 
-## 💼 Resume Impact
-
-Built a real-time fraud detection system handling extreme class imbalance using SMOTE and XGBoost, achieving high recall and deploying via FastAPI + Streamlit.
-
----
-
 ## 👨‍💻 Author
 
 **Idrisraza Ballary**
 AI/ML Engineer Aspirant
-
-* LinkedIn
-* GitHub
 
 ---
 
