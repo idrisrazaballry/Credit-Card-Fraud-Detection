@@ -216,7 +216,7 @@ Output:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Real-time streaming fraud detection
 * Kafka event pipeline
@@ -234,6 +234,6 @@ AI/ML Engineer Aspirant
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
 Give it a star on GitHub ⭐
